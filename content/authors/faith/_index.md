@@ -4,7 +4,7 @@ education:
   - course: Bachelor of Science in Environmental Earth Systems Science
     institution: Nanyang Technological University
     year: 2024
-email: "BTEO016@e.ntu.edu.sg"
+email: xxxx.ntu.edu.sg"
 highlight_name: false
 interests:
 - Monsoonal Variation in Singapore Labyrinthulomycetes Community. The URECA final report and poster can be access [here](https://doi.org/10.6084/m9.figshare.22315123.v1).
