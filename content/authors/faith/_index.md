@@ -4,7 +4,7 @@ education:
   - course: Bachelor of Science in Environmental Earth Systems Science
     institution: Nanyang Technological University
     year: 2024
-email: xxxx.ntu.edu.sg"
+email: "SIMC0024@e.ntu.edu.sg"
 highlight_name: false
 interests:
 - Monsoonal Variation in Singapore Labyrinthulomycetes Community. The URECA final report and poster can be access [here](https://doi.org/10.6084/m9.figshare.22315123.v1).
@@ -15,9 +15,9 @@ role: URECA Undergraduate student
 social:
 - icon: envelope
   icon_pack: fas
-  link: BTEO016@e.ntu.edu.sg
+  link:
 superuser: false
-title: Bryan Teo
+title: Faith Sim Chin Yee
 user_groups:
-- Alumni
+- Undergraduate students
 ---
