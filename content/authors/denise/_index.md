@@ -15,7 +15,7 @@ role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
-  link: A190104@e.ntu.edu.sg
+  link: mailto:A190104@e.ntu.edu.sg
 superuser: false
 title: Denise Ong
 user_groups:

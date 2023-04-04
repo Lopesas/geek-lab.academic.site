@@ -15,7 +15,7 @@ role: URECA Undergraduate student
 social:
 - icon: envelope
   icon_pack: fas
-  link: BTEO016@e.ntu.edu.sg
+  link: mailto:BTEO016@e.ntu.edu.sg
 superuser: false
 title: Bryan Teo
 user_groups:

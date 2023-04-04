@@ -18,7 +18,7 @@ role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
-  link: MATTHEWJ001@e.ntu.edu.sg
+  link: mailto:MATTHEWJ001@e.ntu.edu.sg
 superuser: false
 title: Matt Walker
 user_groups:

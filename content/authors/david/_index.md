@@ -17,7 +17,7 @@ role: URECA and Final Year Project undergraduate student
 social:
 - icon: envelope
   icon_pack: fas
-  link: DMAH002@e.ntu.edu.sg
+  link: mailto:DMAH002@e.ntu.edu.sg
 superuser: false
 title: David Mah
 user_groups:

@@ -15,7 +15,7 @@ role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
-  link: SIMW0034@e.ntu.edu.sg
+  link: mailto:SIMW0034@e.ntu.edu.sg
 superuser: false
 title: Clarence Sim
 user_groups:

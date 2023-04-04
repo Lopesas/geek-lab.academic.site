@@ -17,4 +17,3 @@ title: Rae Chua
 user_groups:
 - Alumni
 ---
-
