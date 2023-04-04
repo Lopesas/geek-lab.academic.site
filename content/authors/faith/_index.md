@@ -15,7 +15,7 @@ role: URECA Undergraduate student
 social:
 - icon: envelope
   icon_pack: fas
-  link:
+  link: SIMC0024@e.ntu.edu.sg
 superuser: false
 title: Faith Sim Chin Yee
 user_groups:
