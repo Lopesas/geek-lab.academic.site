@@ -9,7 +9,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title:
 subtitle: "Genomics and Ecology of Eukaryotes"
-hero_media: geek_logo_500.png
+hero_media: geek_logo_norway.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -18,6 +18,6 @@ advanced:
   css_class:
 ---
 
-We are the **Genomic and Ecology of Eukaryotes** research team. During the past 5 years we have been working at the Nanyang Technological University at Singapore. 
+We are the **Genomic and Ecology of Eukaryotes** research team. During the past 5 years we have been working at the Nanyang Technological University at Singapore.
 
 **From August 2023, the GEEK lab will located at the University of Oslo, Department of Biosciences**.   
