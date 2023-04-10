@@ -9,7 +9,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title:
 subtitle: "Genomics and Ecology of Eukaryotes"
-hero_media: geek_logo_norway.png
+hero_media: geek_logo_norway_500.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
