@@ -1,6 +1,6 @@
 +++
 title = "Salp Blooms Drive Strong Increases in Passive Carbon Export in the Southern Ocean"
-date = "2022-01-01"
+date = "2023-02-02"
 authors = ["Moira Décima", "Michael R. Stukel", "Scott D. Nodder", "Andrés Gutiérrez-Rodríguez", "Karen E. Selph", "Adriana Lopes dos Santos", "Karl Safi", "Thomas B. Kelly", "Fenella Deans", "Sergio E. Morales", "Federico Baltar", "Mikel Latasa", "Maxim Y. Gorbunov", "Matt Pinkerton"]
 publication_types = ["2"]
 publication = "Nature Communications 14 (1): 425"
