@@ -43,6 +43,11 @@
   name = "Teaching"
   url = "teaching"
   weight = 70
+  
+[[main]]
+  name = "SMS"
+  url = "sms"
+  weight = 80
 
 [[main]]
   name = "News"
