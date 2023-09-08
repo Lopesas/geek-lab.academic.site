@@ -18,6 +18,6 @@ advanced:
   css_class:
 ---
 
-We are the **Genomic and Ecology of Eukaryotes** research team. During the past 5 years we have been working at the Nanyang Technological University at Singapore.
+We are the **Genomic and Ecology of Eukaryotes** research team. 
 
 **From August 2023, the GEEK lab will relocated to the University of Oslo, Department of Biosciences**.   
