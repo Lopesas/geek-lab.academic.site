@@ -35,19 +35,14 @@
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "publication"
+  name = "CV"
+  url = "/files/CV_Full_2023.pdf"
   weight = 50
 
 [[main]]
   name = "Teaching"
   url = "teaching"
   weight = 70
-  
-[[main]]
-  name = "SMS"
-  url = "sms"
-  weight = 80
 
 [[main]]
   name = "News"
