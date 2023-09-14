@@ -1,17 +1,19 @@
 ---
 education:
   courses:
-  - course: Bachelor of Science in Environmental Earth Systems Science
+  - course: Bachelor in Environmental Sciences
     institution: Nanyang Technological University
-    year: 2024
+    year: 2023
 email: "SIMC0024@e.ntu.edu.sg"
 highlight_name: false
 interests:
-- Labyrinthulomycetes genetic diversity and global distribution.
+- Labyrinthulomycetes global distribution
+
+- The final year research report can be access [here](https://doi.org/10.6084/m9.figshare.22730243.v1)
 organizations:
 - name: Nanyang Technological University, Asian School of the Environment
   url: "https://ase.ntu.edu.sg"
-role: URECA Undergraduate student
+role: Final Year Project undergraduate student
 social:
 - icon: envelope
   icon_pack: fas
@@ -19,5 +21,5 @@ social:
 superuser: false
 title: Faith Sim Chin Yee
 user_groups:
-- Undergraduate students
+- Alumni
 ---
