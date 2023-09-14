@@ -11,7 +11,7 @@ interests:
 organizations:
 - name: Nanyang Technological University, Asian School of the Environment
   url: "https://ase.ntu.edu.sg"
-role: PhD Research Fellow
+role: PhD research Fellow
 social:
 - icon: envelope
   icon_pack: fas

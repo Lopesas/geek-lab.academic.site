@@ -7,7 +7,7 @@ weight: 20
 
 title: A journey of discovery and friendship at Station Biologique de Roscoff (France)
 
-subtitle: by Clarence Sim, PhD Research Fellow, Nanyang Technological University
+subtitle: by Clarence Sim, PhD research Fellow, Nanyang Technological University
 
 content:
   count: 10
