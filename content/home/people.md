@@ -3,7 +3,7 @@ content:
   user_groups:
   - Principal Investigators
   - Researchers
-  - PhD students
+  - Graduate research fellow
   - Undergraduate students
   - Research Assistants 
   - Administration
