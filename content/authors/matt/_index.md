@@ -10,11 +10,12 @@ education:
 email: "MATTHEWJ001@e.ntu.edu.sg"
 highlight_name: false
 interests:
-- Green Algae genomics
+- Green Algae
+- Scientific Diving
 organizations:
 - name: Nanyang Technological University, Asian School of the Environment
   url: "https://ase.ntu.edu.sg"
-role: PhD student
+role: 
 social:
 - icon: envelope
   icon_pack: fas
@@ -22,5 +23,5 @@ social:
 superuser: false
 title: Matt Walker
 user_groups:
-- PhD students
+- Alumni
 ---
