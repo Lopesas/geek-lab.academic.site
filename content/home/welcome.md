@@ -18,6 +18,10 @@ advanced:
   css_class:
 ---
 
-We are the **Genomic and Ecology of Eukaryotes** research team. 
+We are the **Genomic and Ecology of Eukaryotes** research team. We use high-thoughtput sequencing methods combine with wet lab strategies (e.g. microscopy, culture isolation) to study the ecology of natural occuring microbial eukaryotes populations.
 
-**From August 2023, the GEEK lab will relocated to the University of Oslo, Department of Biosciences**.   
+While our laboratory just recently moved to Oslo (Norway) to join the Aquatic biology and toxicology section [AQUA](https://www.mn.uio.no/ibv/english/research/sections/aqua/) at University of Oslo, some of the GEEK lab members continue working at our previous home in Singapore (Nanyang Technological University).
+
+
+ 
+  
