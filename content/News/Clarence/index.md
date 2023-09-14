@@ -7,7 +7,7 @@ weight: 20
 
 title: A journey of discovery and friendship at Station Biologique de Roscoff (France)
 
-subtitle: Clarence Sim, PhD Candidate, Nanyang Technological University
+subtitle: by Clarence Sim, PhD Candidate, Nanyang Technological University
 
 content:
   count: 10
@@ -27,7 +27,7 @@ design:
 
 Summer of 2023 holds one of the most special places in my heart. The three months in Roscoff gave me a huge boost in my academic and personal growth. As I reflect on my journey of discovery and friendship in Roscoff, I am filled with gratitude for the incredible experiences and people that have shaped me.
 
-**The Science**: With coordination and strong support from my PhD supervisor, Adriana Lopes, I was given the opportunity to have a research attachment at the Station Biologique de Roscoff (SBR) in France. The main objective was to characterize a cell-to-cell interaction between the parasite Labyrinthula and its photosynthetic host, *Biddulphia. This work is an integral part of my PhD thesis that focuses on protist community structure and dynamics. It is important to investigate interactions between cells because they have significant implications for the dynamics and functioning of the marine ecosystem (e.g., nutrient cycling, population dynamics).
+**The Science**: With coordination and strong support from my PhD supervisor, Adriana Lopes, I was given the opportunity to have a research attachment at the Station Biologique de Roscoff (SBR) in France. The main objective was to characterize a cell-to-cell interaction between the parasite Labyrinthula and its photosynthetic host. This work is an integral part of my PhD thesis that focuses on protist community structure and dynamics. It is important to investigate interactions between cells because they have significant implications for the dynamics and functioning of the marine ecosystem (e.g., nutrient cycling, population dynamics).
 
 My research would not have been possible without the technical and logistical support from the Roscoff Culture Collection (RCC), which kindly hosted me for this attachment, especially Priscillia Gourvil, who also graciously introduced me to the entire plankton team (ECOMAP -Ecology of Marine Plankton) and gave me the most thorough lab induction. There, I also had the honor of working with and learning from confocal microscopist Marie Walde and electron microscopist Sophie Le Panse. The work we have done together was exciting as we produced never-seen-before confocal and transmission electron images that showcase this specific cell-to-cell interaction. I am so grateful to have worked with these incredible scientists as their guidance, support, and unwavering belief in my potential pushed me to excel in ways I never thought possible. Their encouragement toward me, alongside their wisdom and passion for science, were highly motivating.
 

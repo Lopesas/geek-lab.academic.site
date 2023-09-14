@@ -11,7 +11,7 @@ interests:
 organizations:
 - name: Nanyang Technological University, Asian School of the Environment
   url: "https://ase.ntu.edu.sg"
-role: PhD student
+role: PhD Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -19,5 +19,5 @@ social:
 superuser: false
 title: Denise Ong
 user_groups:
-- PhD students
+- Graduate research fellow
 ---
