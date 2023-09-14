@@ -40,4 +40,4 @@ It was the friends that I have made from SBR that made my experiences so memorab
 To all my peers in academia, I urge you to seize opportunities to explore the world of science beyond your comfort zone. You never know where your next adventure may take you or the incredible friends and mentors you may meet along the way. My experience in Roscoff will forever remind me that the pursuit of knowledge is a journey worth embarking on, and that international friendships are the treasures we discover along the way.
 
 
-{{<figure class="img-sm" src="/media/Blog_ClarenceRoscoff_Sept23" caption="A.Farewell party, B.Roscoff bay, C. Birthday celabration at the only Asian restaurant around, D. presentation during ECOMAP meeting">}}
+{{< figure class="img-sm" src="/media/Blog_ClarenceRoscoff_Sept23" caption="">}}
