@@ -1,9 +1,9 @@
 ---
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+ - course: Bachelor in Marine Ecology
+    institution: Norwegian University of Science and Technology - NTNU
+    year: 2021
 email: "sandrib@student.ibv.uio.no"
 highlight_name: false
 interests:
