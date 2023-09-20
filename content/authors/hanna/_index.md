@@ -1,9 +1,9 @@
 ---
 education:
   courses:
-  - course:
-    institution:
-    year:
+  - course: Bachelor in Bioscience
+    institution: University of Oslo
+    year: 2020
 email: "hannstri@student.ibv.uio.no"
 highlight_name: false
 interests:
